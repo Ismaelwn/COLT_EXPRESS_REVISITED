@@ -1,0 +1,15 @@
+Ajouts au niveau de l'identité :
+* J'affiche l'historique des actions dans le jeu directement
+* Des images, une soundboard pour les actions pour recreer l'identité du jeu
+* Un menu avec Ajout des Menus pour lancer une partie ou changer ses parametres de jeu
+* personnaliser le jeu selon les desirs de l'utilisateur grace a plusieurs options
+* Les parametres sont sauvegardés et n'auront pas besoin d'etre respecifié a la prochaine parie pour pouvoir jour avec les memes parametres
+* Affichage a la fin de la partie du classement et des gains des joueurs a la fin de la partie
+
+
+Ajouts de régles :
+* chaque tour durant la phase d'action dure "Temps" au maximum
+* le joueur a la possibilité de ne pas jouer pendant un tour
+* Une régle de Fin de jeu si plus de Bandits en vie ou plus de "Montant" pour gagner la parties; // A FAIRE
+* La partie a un nombre finis de rounds maximum au cas ou aucun bandit n'est retiré du jeu
+* Les passagers peuvent ne pas avoir de butins, si ils sont braquer, ils disparaissent du jeu et leur butin est ajouté au Butin volé par le bandit sauf si le butin du passager est de 0
