@@ -32,7 +32,7 @@
 
 1. **Cloner le dépôt** :
    ```bash
-   git clone https://github.com/Ismaelwn/ColtExpressRevisited.git
+   git clone https://github.com/Ismaelwn/COLT_EXPRESS_REVISITED.git
    ```
 2. **Installer les dépendances** (si nécessaire) :
    ```bash
